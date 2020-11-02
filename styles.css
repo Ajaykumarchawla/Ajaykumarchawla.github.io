@@ -4,8 +4,6 @@
   padding: 0;
   box-sizing: border-box;
   list-style: none;
-  font-family: 'Monsterrat'.sans-serif;
-
 }
 
 body {
@@ -381,7 +379,6 @@ hr{
   margin-left: 30vw;
 }
 
-}
 .banner text{
   position:absolute;
   top:-50%; bottom:-50%;
